@@ -37,7 +37,7 @@
 #   The surface of the plot is a plane for which x3 is held constant.
 #   Cross sections of tori are displayed red.
 #   Cross sections of upper spheres are displayed blue.
-#   Cross sections of upper spheres are displayed green.
+#   Cross sections of lower spheres are displayed green.
 
 reset
 
