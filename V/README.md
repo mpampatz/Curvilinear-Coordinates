@@ -1,7 +1,7 @@
+   # Plot (v)
    A plot for the curvilinear system found at
    "Vectors Tensors and the Basic Equations of Fluid Mechanics"
    by Aris Rutherford
-   Exersice 7.11.1 (v)
 
    Curvilinear coordinates x1, x2, x3 are transformed to zeta, eta, theta
    such that ...
