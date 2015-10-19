@@ -1,4 +1,4 @@
-# Plot (v)
+### Plot (v)
 A plot for the curvilinear system found at
 "Vectors Tensors and the Basic Equations of Fluid Mechanics"
 by Aris Rutherford
